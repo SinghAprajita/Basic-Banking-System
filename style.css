@@ -1,0 +1,33 @@
+body{
+    background-color:lavender; 
+}
+ 
+ 
+ #content{
+    padding-left: 20%;
+    margin-left: 50px;
+     align-items: center;
+ }
+ .thumbnail{
+     width: 100%;
+     padding: 5px;
+     
+ }
+ .caption{
+     height:200px;
+     
+ }
+ 
+ img{
+     width:350px;
+ }
+ button{
+     background-color: orangered;
+ }
+footer{
+    
+ background-color: #101010;
+ color:#9d9d9d;
+ height: 30px;
+ width: 100%;
+}
